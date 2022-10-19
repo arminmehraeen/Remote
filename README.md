@@ -1,4 +1,4 @@
-<p>this is a test project:</p>
+<p>This is a test project:</p>
 <hr>
 <hr>
 <div>
